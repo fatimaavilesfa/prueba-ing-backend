@@ -7,7 +7,12 @@ explico como ejecutar el codigo y mi pensamiento para solucionarlo.
 ```
 git clone https://github.com/fatimaavilesfa/prueba-ing-backend.git
 
+```
+
+## En la linea de comando correr
+```
 node calculoSueldo.js
+
 ```
 
 ## Proceso de solucion
